@@ -1,0 +1,2 @@
+int32 trigger_signal
+string reason

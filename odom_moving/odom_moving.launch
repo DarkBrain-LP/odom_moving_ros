@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="odom_moving" type="odom_moving.py" name="odom_moving" output="screen">
+        <param name="distance" type="double" value="0.7"/> 
+    </node>
+</launch>
